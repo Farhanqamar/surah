@@ -42,7 +42,7 @@ function quran() {
 
 let mini = document.getElementById('chlo')
 
-function poja(params) {
+function poja() {
     let name = ["Al-Fatihah", "Al-Baqarah", "Aal-E-Imran", 
     "An-Nisa","Al-Maidah", "Al-An'am", "Al-A'raf", 
      "Al-Anfal", "At-Tawbah", "Yunus", "Hud", "Yusuf", "Ar-Ra'd",
